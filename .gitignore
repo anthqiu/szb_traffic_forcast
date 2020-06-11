@@ -1,9 +1,10 @@
 .ipynb_checkpoints/
+*.DS_Store
+*.idea/
 
-*.csv
+*data/
 
 # Qiu Shi
 qiushi/*mapmatched/
-
 
 # ...
